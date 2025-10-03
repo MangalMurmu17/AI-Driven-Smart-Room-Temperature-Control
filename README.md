@@ -78,7 +78,7 @@ Instead of direct IoT deployment, the system was tested in a **simulated environ
 ---
 
 ## 🖼️ System Architecture
-
+![image alt](https://github.com/MangalMurmu17/AI-Driven-Smart-Room-Temperature-Control/blob/68158348b14d6545827397666dd3b90715a60919/SystemArchitecture.png)
 ---
 
 ## 📊 Results Summary  
